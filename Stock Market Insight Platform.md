@@ -46,8 +46,3 @@ All modules integrate with shared dev services using Docker Compose:
 
 ---
 
-## 🚀 Local Development
-
-1. **Start required services:**
-   ```bash
-   docker-compose up -d
